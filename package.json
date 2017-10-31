@@ -1,6 +1,6 @@
 {
   "name": "material-ui-table-editible",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Material UI Editible Table",
   "main": "dist.js",
   "browser": "dist.js",
